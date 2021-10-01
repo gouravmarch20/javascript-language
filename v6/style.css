@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+:root {
+  --primary-color-redish: #b4161b;
+  --primary-color-greenish: #00d84a;
+
+  --secondary-color-voilet: #8d3daf;
+}
+.secondary-color {
+  color: var(--secondary-color-voilet);
+}
+.secondary-bg {
+  background-color: var(--secondary-color-voilet);
+  padding: 1rem;
+}
+.primary-color {
+  color: var(--primary-color-redish);
+}
+.primary-bg {
+  background-color: var(--primary-color-redish);
+}
+
+
+.hero-heading {
+    font-family: 'PT Serif', serif;
+}
